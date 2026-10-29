@@ -5,3 +5,15 @@
 <header>
     <h1>SportZone</h1>
 </header>
+<header>
+    <h1>SportZone</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="deportes.html">Deportes</a></li>
+            <li><a href="noticias.html">Noticias</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
